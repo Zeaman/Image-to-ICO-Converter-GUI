@@ -172,7 +172,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-Developed with ❤️ by [Your Name]  
+Developed with ❤️ by Amanuel Mihiret (MSc. in Robotics Eng.)  
 📧 Contact: zeaman48@gmail.com  
 🌐 YT-Portfolio: https://www.youtube.com/@YomTech44
 ```
